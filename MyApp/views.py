@@ -11,7 +11,7 @@ import os
 
 
 tmdb = TMDb()
-tmdb.api_key = 'c6700a0e0bff2d4526ccab11b2b00ca3' 
+tmdb.api_key = "API KEY" #Insert your own API key
 def main_code(movieName):
     movie_dataFrame = pd.read_csv(r'C:\Users\Rajat Pandey\projects\MovieRecommendation\MyApp\movies.csv')
     rating_dataFrame = pd.read_csv(r'C:\Users\Rajat Pandey\projects\MovieRecommendation\MyApp\ratings.csv')
