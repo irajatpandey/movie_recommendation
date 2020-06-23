@@ -1,1 +1,1 @@
-# movie_recommendation
+This project basically helps to recommend the movies on the basis of the user rating which is stored in the dataset. I have used collaborative filtering technique and matrix factorization algorithm while making this project more efficient and the recommendation results are much more better . Apart from that, I connect the model using one of the backend frameworks (Django) in order to make the project more user friendly which can be used by anyone
